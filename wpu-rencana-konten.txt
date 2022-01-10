@@ -1,6 +1,8 @@
 RENCAN KONTEN WPU
 
 - javascript
+ * ES6
+ * Franework javascript
 - php franeworks
 - interview
 - vlogs
