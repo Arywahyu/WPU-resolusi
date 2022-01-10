@@ -3,7 +3,10 @@ RENCAN KONTEN WPU
 - javascript
  * ES6
  * Franework javascript
+  ^ vue
 - struktur data dasar
 - php franeworks
+  ^ laravel
 - interview
 - vlogs
+- phython
